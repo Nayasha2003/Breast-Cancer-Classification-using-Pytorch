@@ -1,6 +1,10 @@
 🩺 Breast Cancer Classification using PyTorch
 
-A deep learning project for binary classification of breast cancer tumors (benign vs malignant) using the Breast Cancer Wisconsin (Diagnostic) dataset from scikit-learn. Implemented with PyTorch.
+🔬 Developed a deep learning model using PyTorch for binary classification of breast cancer tumors (benign vs malignant).
+📊 Utilized the Breast Cancer Wisconsin (Diagnostic) dataset from scikit-learn (569 samples, 30 features).
+⚙️ Applied data preprocessing with StandardScaler, built a neural network (ReLU + Sigmoid), trained with Adam optimizer and Binary Cross-Entropy Loss.
+✅ Achieved ~99% training accuracy and ~96% test accuracy demonstrating strong model performance.
+💻 Ensured GPU/CPU compatibility and implemented an end-to-end ML pipeline from data loading to evaluation.
 
 📊 Dataset
 
